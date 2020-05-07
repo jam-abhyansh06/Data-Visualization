@@ -20,7 +20,7 @@ In this project, you have following tasks to do:
 
 #### 1: Loading the Data 
 #### 2: Plotting quick Visualizations with Custom Bar Charts
-#### 3: Plot Life Expectancy vs GDP per Capita
+#### 3: Plotting more data. 
 #### 4: Customize Interactive Bubble Charts
 #### 5: Create Interactive Animations and Facet Plots 
 #### 6: Represent Geographic Data as Animated Maps
