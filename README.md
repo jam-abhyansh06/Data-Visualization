@@ -14,9 +14,9 @@ About the Data:
   Techniques to enhance Visualization, 
   Represent Geopgraphic data
   
+### Tasks will be added frequently
 
-
-In this project, you have following tasks to do:
+### In this project, you have following tasks to do:
 
 #### 1: Loading the Data 
 #### 2: Plotting quick Visualizations with Custom Bar Charts
