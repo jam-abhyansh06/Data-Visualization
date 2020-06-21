@@ -1,0 +1,21 @@
+	Category				|	Column Name in School.xls
+________________________________________________|______________________________________________________
+Schools by Broad Categories of Management 	|	[Govt. to Others]
+Schools by detailed type of Management 		|	[Dept.ofEdu to Madarsa unrecognized]
+Schools by Category 				|	[Primary to Higher Secondary only/Jr  College]	
+Type of Schools (Boys, Girls, Co-Educational) 	|	[Boys to Co.Ed]
+Schools in Rural & Urban Area			|	[URBAN-RURAL]
+Types of Residential Schools			|	[Ashram [Govt] - Private]
+Special Schools for CWSN by school category 	|	[Primary-Higher Secondary only/Jr  College]
+Schools having CWSN Enrolment			|	[Primary-Higher Secondary only/Jr  College]	
+Schools by Affiliation Board    		|	[CBSE-International Board]		
+ 
+		
+
+	
+
+	
+
+
+	
+
